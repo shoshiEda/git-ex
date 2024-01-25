@@ -17,3 +17,8 @@ body{
     cursor: pointer;
     transition: 1s;
 }
+
+.second-ball{
+    background-color: plum;
+    margin-block-start: 20px;
+}
