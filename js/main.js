@@ -6,4 +6,6 @@ function onBallClick(elBall){
     elBall.innerText=num
     elBall.style.width=`${num}px`
     elBall.style.height=`${num}px`
+    elBall.style.backgroundColor=`#${getRendomColor()}`
+
 }

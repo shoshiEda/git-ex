@@ -3,7 +3,7 @@ body{
 }
 
 .ball{
-    background-color: rgb(197, 42, 145);
+    background-color: red;
     width: 100px;
     height: 100px;
     border-radius: 50%;
